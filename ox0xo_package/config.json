@@ -1,0 +1,4 @@
+{
+    "name": "ox0xo CTFd Plugin for Docker",
+    "route": "/admin/cstom_plugin_route"
+}
